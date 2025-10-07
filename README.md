@@ -1,9 +1,7 @@
 # book-of-JS
-
-
-![Image]()
-
 - [Demo Project](https://erfanzaali-dev.github.io/book-of-JS/)
+
+![Image](https://github.com/user-attachments/assets/7f94e332-e508-4fc7-a72b-34f5aafc3f55)
 
 
 - Developed by erfan zaali
